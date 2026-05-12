@@ -2,6 +2,26 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 18:54 IR
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.001](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.001) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.002](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.002) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.003](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.003) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.004](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.004) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.005](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.005) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.006](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.006) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.007](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.007) `95.0MB`
+
+- 🗜️ [روایتی_از_ناتوانی_ابرقدرت‌ها_مقابل_مردم_ایران.7z.008](https://github.com/mrdddkind/sandbox/raw/main/dl/%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C_%D8%A7%D8%B2_%D9%86%D8%A7%D8%AA%D9%88%D8%A7%D9%86%DB%8C_%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA%E2%80%8C%D9%87%D8%A7_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D9%85%D8%B1%D8%AF%D9%85_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86.7z.008) `4.7MB`
+
+---
+
+
 ### 📅 2026-05-12 17:53 IR
 - 🎬 [Patience_–_Javad_Yasari_(English_Version_of_Sabre_Ayoob)___Persian_Song_in_English.mp4](https://github.com/mrdddkind/sandbox/raw/main/dl/Patience_%E2%80%93_Javad_Yasari_%28English_Version_of_Sabre_Ayoob%29___Persian_Song_in_English.mp4) `14.5MB`
 
