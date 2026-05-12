@@ -1,0 +1,39 @@
+name: 7-Day Precision Cleanup
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # برای اجرای دستی
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Delete Files Older Than 7 Days
+        run: |
+          echo "🔍 Searching for files older than 7 days..."
+          
+          # بررسی پوشه dl
+          if [ -d "dl" ]; then
+            find ./dl -type f -mtime +7 -exec echo "Removing: {}" \; -delete
+          fi
+
+          # بررسی پوشه apks
+          if [ -d "apks" ]; then
+            find ./apks -type f -mtime +7 -exec echo "Removing: {}" \; -delete
+          fi
+          
+      - name: Sync Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto-Cleaner"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🧹 Nightly Cleanup: Removed files older than 7 days" && git push)

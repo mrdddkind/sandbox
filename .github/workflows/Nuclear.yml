@@ -1,0 +1,41 @@
+name: Instant Emergency Cleanup
+
+on:
+  workflow_dispatch: # فقط اجرای دستی توسط خودت
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 1
+
+      - name: Delete Everything in DL and APKS
+        run: |
+          echo "🚀 Starting Instant Cleanup..."
+          
+          # پاکسازی محتویات پوشه dl
+          if [ -d "dl" ]; then
+            rm -rf ./dl/*
+            touch ./dl/.gitkeep
+            echo "✅ Folder dl cleaned."
+          fi
+
+          # پاکسازی محتویات پوشه apks
+          if [ -d "apks" ]; then
+            rm -rf ./apks/*
+            touch ./apks/.gitkeep
+            echo "✅ Folder apks cleaned."
+          fi
+          
+      - name: Force Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Emergency-Cleaner"
+          git add .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔥 Instant Cleanup Performed" && git push)
